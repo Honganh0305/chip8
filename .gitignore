@@ -1,0 +1,7 @@
+# Build output
+chip8/chip8
+game
+*.o
+
+# macOS
+.DS_Store
